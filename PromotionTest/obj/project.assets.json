@@ -5666,11 +5666,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
+      "projectUniqueName": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
       "projectName": "PromotionTest",
-      "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
+      "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
       "packagesPath": "C:\\Users\\ashishr1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionTest\\obj\\",
+      "outputPath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5690,8 +5690,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {
-              "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj"
+            "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {
+              "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj"
             }
           }
         }

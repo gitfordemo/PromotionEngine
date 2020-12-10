@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xWswYLH2DOJqP+zJd9PxToIcf9tSmlfsGqnDiumhkzwSjL8W8/0YEhd6inaVWYbvVjTazLJlosk7GhiUdEnYmQ==",
+  "dgSpecHash": "Mdvc1VjFonM0XJ4dQm660zT+IEU1N2wLtsl2iKvLEWMjHSMWq1z4nQ5RBIQmaz4KnpBFWx1CbxjNV4eToWsSdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
+  "projectFilePath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionTest\\PromotionTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ashishr1\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\ashishr1\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

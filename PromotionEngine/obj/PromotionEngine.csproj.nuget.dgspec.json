@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {}
+    "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {
+    "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
+        "projectUniqueName": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
         "projectName": "PromotionEngine",
-        "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
+        "projectPath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\PromotionEngine.csproj",
         "packagesPath": "C:\\Users\\ashishr1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ashishr1\\Source\\Repos\\PromotionEngine\\PromotionEngine\\obj\\",
+        "outputPath": "C:\\Users\\ashishr1\\Source\\Repos\\gitfordemo\\PromotionEngine\\PromotionEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
